@@ -1,5 +1,5 @@
 {
-  "name": "sneak-game",
+  "name": "snake-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
